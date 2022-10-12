@@ -1,0 +1,832 @@
+[
+{
+    "responses": [],
+    "schedule": {
+        "start_date": "2022-03-28",
+        "weeks": [
+            {
+                "start_date": "2022-03-28",
+                "motivational_message": "It’s always hard to start a new program. You’re doing great and we’re here for you as you complete this week’s activities.",
+                "activities": [
+                    {
+                        "id": "995f9729-d781-4d89-99f1-d53dfcab3bd7",
+                        "kind": "checkin",
+                        "title": "How are you feeling this week?",
+                        "duration": "1 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "moodAssessment"
+                        }
+                    },
+                    {
+                        "id": "f998f918-b1f6-4c24-970c-ff07a9e7cc71",
+                        "kind": "video1",
+                        "title": "Welcome to DRIVEN",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 1"
+                        }
+                    },
+                    {
+                        "id": "9095363d-c584-472c-a69c-74cf4b381da8",
+                        "kind": "exercise1",
+                        "title": "Thinking flexibly",
+                        "duration": "15 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "exercise",
+                            "kind": "exercise1",
+                            "title": "Thinking flexibly",
+                            "content_url": "exercises/week1/exercise1.md",
+                            "questions": [
+                                {
+                                    "id": "25424b47-8fba-4cfe-9951-b3dafa36e48d",
+                                    "input_type": "text",
+                                    "placeholder": "Sample: The interviewer for ABC company was half an hour late to my job interview",
+                                    "content": "Situation that bothered you (Where were you, what were you doing, and who were you with?)"
+                                },
+                                {
+                                    "id": "dd25b871-9302-48f5-8bc4-e01c0a5f4212",
+                                    "input_type": "text",
+                                    "placeholder": "Sample: Frustrated, angry, hopeless, sad (6)",
+                                    "content": "How it made you feel (Rate the intensity of your emotions from 0-10, with 0 being an insignificant emotion and 10 being an extremely intense emotion)."
+                                },
+                                {
+                                    "id": "d6026274-bbfd-442f-a244-da01f568dacd",
+                                    "input_type": "text",
+                                    "placeholder": "Sample: They have no respect for my time. I guess I don’t deserve to be taken seriously as a candidate.",
+                                    "content": "Thoughts (What were you thinking during the event?)"
+                                },
+                                {
+                                    "id": "12283c0a-200a-4b0f-9839-c7e14cceccd5",
+                                    "input_type": "text",
+                                    "placeholder": "Sample: The interviewer had an unavoidable emergency. Their lateness is not personal. At least I was invited for this meeting, and it seemed to go well once we got started",
+                                    "content": "Alternative viewpoints (How might your coach see the situation?)"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "b4fa010c-36f3-4a1b-bac8-9472f46fe10e",
+                        "kind": "video2",
+                        "title": "Navigating thoughts and feelings",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 2"
+                        }
+                    },
+                    {
+                        "id": "fdf12404-f1e3-4f0d-8497-52d918ade12a",
+                        "kind": "video3",
+                        "title": "Taking actions on goals",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 3"
+                        }
+                    },
+                    {
+                        "id": "616f7e49-f503-4d4e-8ace-ea206e03dae1",
+                        "kind": "exercise2",
+                        "title": "Goal setting and activity planning",
+                        "duration": "15 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "exercise",
+                            "kind": "exercise2",
+                            "title": "Goal Setting and Activity Planning",
+                            "content_url": "exercises/week1/exercise2.md",
+                            "questions": [
+                                {
+                                    "id": "6b2a832b-f4ea-4227-830e-7da36a04a0e2",
+                                    "input_type": "text",
+                                    "placeholder": "Example: Take my kids bike riding",
+                                    "content": "My Weekly Activation Goal:"
+                                },
+                                {
+                                    "id": "c623a0f1-96cc-4e40-941f-443e82c5eebe",
+                                    "input_type": "dateTime",
+                                    "placeholder": "Example: Saturday morning, 10-11AM",
+                                    "content": "When I’ll do it:"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "resources": [
+                    {
+                        "title": "Fast Company: Why Flexible Thinking is More Important Than Ever.",
+                        "link": "https://www.fastcompany.com/90666025/why-flexible-thinking-is-more-important-than-ever",
+                        "description": "This article addresses how, in a workplace of constant change, flexibility is becoming increasingly important."
+                    },
+                    
+                    {
+                        "title": "Psych Central: All About Cognitive Behavioral Therapy",
+                        "link": "https://psychcentral.com/lib/in-depth-cognitive-behavioral-therapy",
+                        "description": "This article defines what CBT is, how it works, and who it’s designed to help."
+                    },
+                    
+                    {
+                        "title": "Psychology Tools: How to Use Behavioral Activation to Overcome Depression",
+                        "link": "https://www.psychologytools.com/self-help/behavioral-activation/",
+                        "description": "When we are depressed, we become less active, which lowers our mood. This article introduces the concept of Behavioral Activation (BA) to counteract the fatigue and isolation that sometimes accompany negative feelings."
+                    },
+                    
+                    {
+                        "title": "Very Well Mind: How to Cope with Negative Emotions",
+                        "link": "https://www.verywellmind.com/how-should-i-deal-with-negative-emotions-3144603",
+                        "description": "This article discusses the different types of negative emotions and what causes them. It also explores the unhealthy ways of coping you should avoid as well as some healthier ways of dealing with these difficult emotions."
+                    },
+                    
+                    {
+                        "title": "Elastic: Flexible Thinking in a Time of Change",
+                        "link": "https://www.amazon.com/Elastic-Flexible-Thinking-Time-Change/dp/0147521947",
+                        "description": "This book discusses how we can train our brains to be more comfortable when confronting change. Author Leonard Mlodinow gives us the essential tools to take advantage of the power of flexible thinking."
+                    }
+                ]
+            },
+            {
+                "start_date": "2022-04-04",
+                "motivational_message": "You’re making incredible progress. We hope you are enjoying working with your coach and racking up those awards!\n",
+                "activities": [
+                    {
+                        "id": "402250f8-a6fa-453d-bf4c-fbcdf065ad5b",
+                        "kind": "checkin",
+                        "title": "How are you feeling this week?",
+                        "duration": "1 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "moodAssessment"
+                        }
+                    },
+                    {
+                        "id": "e7fe009c-13c7-41c1-aa4b-0cff2a970ce1",
+                        "kind": "video1",
+                        "title": "Welcome to DRIVEN",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 1"
+                        }
+                    },
+                    {
+                        "id": "be6d1f46-4809-454c-a0e2-06f65e6ca12e",
+                        "kind": "exercise1",
+                        "title": "Solving a Big Puzzle by Starting with the Corner Pieces",
+                        "duration": "15 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "exercise",
+                            "kind": "exercise1",
+                            "title": "Solving a Big Puzzle by Starting with the Corner Pieces",
+                            "content_url": "exercises/week2/exercise1.md",
+                            "questions": [
+                                {
+                                    "id": "465154b9-b403-4c82-89f4-ee226cf8ac88",
+                                    "input_type": "text",
+                                    "placeholder": "Problem: I really need a new interview outfit, but I don’t like shopping and don’t know where I’ll find the money.",
+                                    "content": "When we’re feeling low, it can often be hard to take action and tackle problems."
+                                },
+                                {
+                                    "id": "8fc51cc2-9564-4bc1-846a-db1d2f1e9534",
+                                    "input_type": "text",
+                                    "placeholder": "Sample: Frustrated, angry, hopeless, sad (6)\n                                  ",
+                                    "content": "How it made you feel (Rate the intensity of your emotions from 0-10, with 0 being an insignificant emotion and 10 being an extremely intense emotion).\n                                  "
+                                },
+                                {
+                                    "id": "97b73d4b-5398-4195-a9a7-13165da0ed29",
+                                    "input_type": "text",
+                                    "placeholder": "Sample: They have no respect for my time. I guess I don’t deserve to be taken seriously as a candidate.\n                                  ",
+                                    "content": "Thoughts (What were you thinking during the event?)\n                                  "
+                                },
+                                {
+                                    "id": "734c2dce-393f-447c-bbca-e7d58dc51969",
+                                    "input_type": "text",
+                                    "placeholder": "Sample: The interviewer had an unavoidable emergency. Their lateness is not personal. At least I was invited for this meeting, and it seemed to go well once we got started\n                                  ",
+                                    "content": "Alternative viewpoints (How might your coach see the situation?)\n                                  "
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "3657c3ae-6d44-449b-b7a9-139605cd3a77",
+                        "kind": "video2",
+                        "title": "Navigating thoughts and feelings",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 2"
+                        }
+                    },
+                    {
+                        "id": "598a14d4-6fa9-4534-9d85-f58e627491c4",
+                        "kind": "video3",
+                        "title": "Taking actions on goals",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 3"
+                        }
+                    },
+                    {
+                        "id": "b6e470ab-2406-410b-92cf-b07ec02b2d34",
+                        "kind": "exercise2",
+                        "title": "Taking Aim at Repetitive Negative Thinking",
+                        "duration": "15 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "exercise",
+                            "kind": "exercise2",
+                            "title": "Taking Aim at Repetitive Negative Thinking",
+                            "content_url": "exercises/week2/exercise2.md",
+                            "questions": [
+                                {
+                                    "id": "4c1def3e-6748-4190-8543-6749962bc7dc",
+                                    "input_type": "text",
+                                    "placeholder": "Sometimes, we respond to distress",
+                                    "content": "Try the following exercise to break free"
+                                },
+                                {
+                                    "id": "9f5c365c-0b93-484f-bde5-8baacdc796b4",
+                                    "input_type": "dateTime",
+                                    "placeholder": "What is the repetitive thought",
+                                    "content": "Sample: That last conversation I had with HR."
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "resources": []
+            },
+            {
+                "start_date": "2022-04-11",
+                "motivational_message": "Did you even know you could do all that? You should be so proud. Keep looking at the amazing list of skills!",
+                "activities": [
+                    {
+                        "id": "83e9888c-3b4a-44c8-a841-f5e2eb744a0a",
+                        "kind": "checkin",
+                        "title": "How are you feeling this week?",
+                        "duration": "1 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "moodAssessment"
+                        }
+                    },
+                    {
+                        "id": "64af6817-5b1a-4b35-bf9b-5150f143c9d2",
+                        "kind": "video1",
+                        "title": "Welcome to DRIVEN",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 1"
+                        }
+                    },
+                    {
+                        "id": "e2f6b358-9123-4a22-9510-987813e8af82",
+                        "kind": "exercise1",
+                        "title": "Assessing Your Current Skills",
+                        "duration": "15 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "exercise",
+                            "kind": "exercise1",
+                            "title": "Assessing Your Current Skills",
+                            "content_url": "exercises/week3/exercise1.md",
+                            "questions": [
+                                {
+                                    "id": "0fb957d7-e57f-4296-9f45-672b17699317",
+                                    "input_type": "text",
+                                    "placeholder": "Think about all of the skills you have developed during past jobs",
+                                    "content": "That is why taking some time to come up with your strengths and write them down is a useful exercise!"
+                                },
+                                {
+                                    "id": "0320586c-46bf-4750-91e4-e113993fdde2",
+                                    "input_type": "text",
+                                    "placeholder": "Hard Skills____________________________",
+                                    "content": "Samples: Personal care (I have performed hair, nails, face, and skin services at different spas), Languages (I speak and read fluent Spanish)"
+                                },
+                                {
+                                    "id": "ee22e44f-783d-41f4-af65-6bb54244ffaf",
+                                    "input_type": "text",
+                                    "placeholder": "Soft Skills:_____________________________",
+                                    "content": "Samples: Team building (As a factory supervisor, I organized events to build connection in my group), Reliability (I am always on time for my commitments, like when I volunteered to lead the fundraiser for my school)"
+                                },
+                                {
+                                    "id": "b50e3fcd-8f07-48a8-8ab1-075b75330de9",
+                                    "input_type": "text",
+                                    "placeholder": "Technology Skills:_______________________",
+                                    "content": "Samples: Data entry (Working in a call center, I recorded notes from customer conversations in the database), Machine oversight (Whenever our factory robot malfunctioned, I could usually figure out the problem)"
+                                },
+                               {
+                                    "id": "b50e3fcd-8f07-48a8-8ab1-075b75330de9",
+                                    "input_type": "text",
+                                    "placeholder": "Growth Skills:__________________________",
+                                    "content": "Samples: Adaptability (At the warehouse, I switched from receiving to stocking when we were short-staffed during the pandemic), Learning-driven (I seek out knowledge that will help me do my job better)"
+                                },
+                               {
+                                    "id": "b50e3fcd-8f07-48a8-8ab1-075b75330de9",
+                                    "input_type": "text",
+                                    "placeholder": "Experiential Skills:______________________",
+                                    "content": "Samples: Construction safety (I worked on different types of building sites for 10+ years), Store management (I understand the processes involved with opening and closing a store)."
+                                },
+                              {
+                                    "id": "b50e3fcd-8f07-48a8-8ab1-075b75330de9",
+                                    "input_type": "text",
+                                    "placeholder": "Return to this exercise to review ",
+                                    "content": " remembering all the great skills you’ve built up over time! "
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "6989b1f1-1bd7-4ee3-884d-b05a1a1a93e7",
+                        "kind": "video2",
+                        "title": "Navigating thoughts and feelings",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 2"
+                        }
+                    },
+                    {
+                        "id": "2c2dfef4-1bca-48d9-bcb1-9f622a802458",
+                        "kind": "video3",
+                        "title": "Taking actions on goals",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 3"
+                        }
+                    },
+                    {
+                        "id": "f5d835f3-b4eb-4f5e-9959-26d773d8d750",
+                        "kind": "exercise2",
+                        "title": "Matching Your Skills to Online Jobs",
+                        "duration": "15 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "exercise",
+                            "kind": "exercise2",
+                            "title": "Matching Your Skills to Online Jobs",
+                            "content_url": "exercises/week3/exercise2.md",
+                            "questions": [
+                                {
+                                    "id": "ab52bc4a-48ed-4a21-b7e4-e3d7f6a14d82",
+                                    "input_type": "text",
+                                    "placeholder": "Let’s try an experiment.",
+                                    "content": "Read the job description for each of these jobs"
+                                },
+                                {
+                                    "id": "edc60077-3a17-4650-937f-60ecbeba0019",
+                                    "input_type": "dateTime",
+                                    "placeholder": "1. What jobs did you see that you’ve never thought about applying",
+                                    "content": "2.Do you think you currently have the right skills"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "resources": []
+            }
+        ]
+    }
+},
+{
+    "responses": [],
+    "schedule": {
+        "start_date": "2022-03-28",
+        "weeks": [
+            {
+                "start_date": "2022-03-28",
+                "motivational_message": "You are almost ready to send in those applications. You’ve done a fantastic job creating your materials so far. Give yourself a treat for putting your best foot forward!",
+                "activities": [
+                    {
+                        "id": "f3555fe1-8d42-4e76-b8c5-4e66c751c329",
+                        "kind": "checkin",
+                        "title": "How are you feeling this week?",
+                        "duration": "1 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "moodAssessment"
+                        }
+                    },
+                    {
+                        "id": "562f0593-e11e-439d-b330-3e8990dfc1b8",
+                        "kind": "video1",
+                        "title": "Welcome to DRIVEN",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 1"
+                        }
+                    },
+                    {
+                        "id": "1390a6ed-925c-4d83-9941-ce94db27d8a1",
+                        "kind": "exercise1",
+                        "title": "Resume Keywords",
+                        "duration": "15 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "exercise",
+                            "kind": "exercise1",
+                            "title": "Resume Keywords",
+                            "content_url": "exercises/week4/exercise1.md",
+                            "questions": [
+                                {
+                                    "id": "368b3eeb-cd09-47f7-b166-be6ef7368b54",
+                                    "input_type": "text",
+                                    "placeholder": "Sample: The interviewer for ABC company was half an hour late to my job interview",
+                                    "content": "Situation that bothered you (Where were you, what were you doing, and who were you with?)"
+                                },
+                                {
+                                    "id": "c9740faf-6a5c-4e75-9f41-980357414a96",
+                                    "input_type": "text",
+                                    "placeholder": "Many companies use software called “applicant tracking systems” to automatically scan",
+                                    "content": "As an example, common job search keywords include:"
+                                },
+                                {
+                                    "id": "be965531-df4c-4bc8-880d-b0a1b814a4b1",
+                                    "input_type": "text",
+                                    "placeholder": "Now, match the keywords you found",
+                                    "content": " we’ll talk about how to incorporate these keywords into your resume."
+                                },
+                                {
+                                    "id": "c310db63-97c5-46a5-9a8f-6a3b65030125",
+                                    "input_type": "text
+                                  ",
+                                    "placeholder": "Sample: The interviewer had an unavoidable emergency. Their lateness is not personal. At least I was invited for this meeting, and it seemed to go well once we got started
+                                  ",
+                                    "content": "Alternative viewpoints (How might your coach see the situation?)
+                                  "
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "16800cc7-d337-4702-8063-b0af4f22544a",
+                        "kind": "video2",
+                        "title": "Navigating thoughts and feelings",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 2"
+                        }
+                    },
+                    {
+                        "id": "198a476b-5385-4897-8bd0-135076eb1726",
+                        "kind": "video3",
+                        "title": "Taking actions on goals",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 3"
+                        }
+                    },
+                    {
+                        "id": "a7eefbc3-0b34-4874-b391-96d5e171caa8",
+                        "kind": "exercise2",
+                        "title": "Asking for Help with Job Materials",
+                        "duration": "15 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "exercise",
+                            "kind": "exercise2",
+                            "title": "Asking for Help with Job Materials",
+                            "content_url": "exercises/week4/exercise2.md",
+                            "questions": [
+                                {
+                                    "id": "1e22d962-e65d-4c82-8664-aeb8e663e42c",
+                                    "input_type": "text",
+                                    "placeholder": "People sometimes avoid asking others for help ",
+                                    "content": "When you’re job searching"
+                                },
+                                {
+                                    "id": "6d468f6a-ceec-424b-ae1a-9d4364b5e83e",
+                                    "input_type": "text",
+                                    "placeholder": "If you have any concerns about asking these individuals for help, think about why you might hesitate, and answer these questions:",
+                                    "content": "What did you learn about people's willingness to help? Will this make it easier to ask next time?"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "resources": [
+                    {
+                        "title": "Fast Company: Why Flexible Thinking is More Important Than Ever.",
+                        "link": "https://www.fastcompany.com/90666025/why-flexible-thinking-is-more-important-than-ever",
+                        "description": "This article addresses how, in a workplace of constant change, flexibility is becoming increasingly important."
+                    },
+                    
+                    {
+                        "title": "Psych Central: All About Cognitive Behavioral Therapy",
+                        "link": "https://psychcentral.com/lib/in-depth-cognitive-behavioral-therapy",
+                        "description": "This article defines what CBT is, how it works, and who it’s designed to help."
+                    },
+                    
+                    {
+                        "title": "Psychology Tools: How to Use Behavioral Activation to Overcome Depression",
+                        "link": "https://www.psychologytools.com/self-help/behavioral-activation/",
+                        "description": "When we are depressed, we become less active, which lowers our mood. This article introduces the concept of Behavioral Activation (BA) to counteract the fatigue and isolation that sometimes accompany negative feelings."
+                    },
+                    
+                    {
+                        "title": "Very Well Mind: How to Cope with Negative Emotions",
+                        "link": "https://www.verywellmind.com/how-should-i-deal-with-negative-emotions-3144603",
+                        "description": "This article discusses the different types of negative emotions and what causes them. It also explores the unhealthy ways of coping you should avoid as well as some healthier ways of dealing with these difficult emotions."
+                    },
+                    
+                    {
+                        "title": "Elastic: Flexible Thinking in a Time of Change",
+                        "link": "https://www.amazon.com/Elastic-Flexible-Thinking-Time-Change/dp/0147521947",
+                        "description": "This book discusses how we can train our brains to be more comfortable when confronting change. Author Leonard Mlodinow gives us the essential tools to take advantage of the power of flexible thinking."
+                    }
+                ]
+            },
+            {
+                "start_date": "2022-04-04",
+                "motivational_message": "Completing job interviews is a huge achievement. It's only a matter of time before your first offer comes in.",
+                "activities": [
+                    {
+                        "id": "66600939-deb1-47a7-83c3-4c025cc4fa63",
+                        "kind": "checkin",
+                        "title": "How are you feeling this week?",
+                        "duration": "1 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "moodAssessment"
+                        }
+                    },
+                    {
+                        "id": "fa849bf1-1ba8-4110-9acc-896398f1fab6",
+                        "kind": "video1",
+                        "title": "Welcome to DRIVEN",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 1"
+                        }
+                    },
+                    {
+                        "id": "f514d921-cd51-4798-ba9c-3466df4104a9",
+                        "kind": "exercise1",
+                        "title": "Networking Contacts",
+                        "duration": "15 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "exercise",
+                            "kind": "exercise1",
+                            "title": "Networking Contacts",
+                            "content_url": "exercises/week5/exercise1.md",
+                            "questions": [
+                                {
+                                    "id": "184f136a-b634-4072-a4d7-4e484a8c84b5",
+                                    "input_type": "text",
+                                    "placeholder": "Sample: The interviewer for ABC company was half an hour late to my job interview",
+                                    "content": "Situation that bothered you (Where were you, what were you doing, and who were you with?)"
+                                },
+                                {
+                                    "id": "d7d884fd-3298-4409-b3fc-036540e6f379",
+                                    "input_type": "text",
+                                    "placeholder": "As we talked about last week",
+                                    "content": "Use this exercise to jot down potential job search contacts"
+                                },
+                                {
+                                    "id": "9e20e76a-3670-4746-8b78-d0b94b0f89a7",
+                                    "input_type": "text",
+                                    "placeholder": "Friends",
+                                    "content": "(Sample: My best friend from high school who works at our local hospital. Reach out deadline: Email by next Monday)"
+                                },
+                                {
+                                    "id": "67b263ee-8e91-41fb-8e7c-f5f70f5ef39c",
+                                    "input_type": "text",
+                                    "placeholder": "Prior Managers",
+                                    "content": "(Sample: Jeff supervised me when we both worked at the hotel. Reach out deadline: Email to ask for a reference tomorrow)."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "0f3be2e2-5d6d-418d-ad5c-c946b36d4381",
+                        "kind": "video2",
+                        "title": "Navigating thoughts and feelings",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 2"
+                        }
+                    },
+                    {
+                        "id": "1234c82f-4f64-4632-b874-6965e48ece41",
+                        "kind": "video3",
+                        "title": "Taking actions on goals",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 3"
+                        }
+                    },
+                    {
+                        "id": "9fe9c07f-f4cf-42f6-af58-b27af8f14747",
+                        "kind": "exercise2",
+                        "title": "Common Interview Questions",
+                        "duration": "15 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "exercise",
+                            "kind": "exercise2",
+                            "title": "Common Interview Questions",
+                            "content_url": "exercises/week5/exercise2.md",
+                            "questions": [
+                                {
+                                    "id": "8d4983ef-b9a0-4bfd-9f35-76c649c28546",
+                                    "input_type": "text",
+                                    "placeholder": "Interviews are an important part of the job search process",
+                                    "content": "Note that this one one of DRIVEN’s longer exercises"
+                                },
+                                {
+                                    "id": "a726864b-1767-4fce-8a6d-5c495a6929ae",
+                                    "input_type": "text",
+                                    "placeholder": "Tell me about yourself.",
+                                    "content": "What was the biggest challenge you had in your last position"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "resources": []
+            },
+            {
+                "start_date": "2022-04-11",
+                "motivational_message": "DRIVEN is coming to an end, but the rest of your journey is certain to be interesting.  You have all the skills you need for lifelong career success.",
+                "activities": [
+                    {
+                        "id": "4ce0a8f8-77e4-4768-b4f4-f1e10226f954",
+                        "kind": "checkin",
+                        "title": "How are you feeling this week?",
+                        "duration": "1 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "moodAssessment"
+                        }
+                    },
+                    {
+                        "id": "06c56f1a-c261-402b-99d3-9eea6826a587",
+                        "kind": "video1",
+                        "title": "Welcome to DRIVEN",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 1"
+                        }
+                    },
+                    {
+                        "id": "ac1d97ae-6e4b-4b5f-a4db-8cf58946455a",
+                        "kind": "exercise1",
+                        "title": "Thinking Flexibly Going Forward",
+                        "duration": "15 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "exercise",
+                            "kind": "exercise1",
+                            "title": "Thinking Flexibly Going Forward",
+                            "content_url": "exercises/week6/exercise1.md",
+                            "questions": [
+                                {
+                                    "id": "94317455-8c61-49b6-920c-8a3142d4e9f6",
+                                    "input_type": "text",
+                                    "placeholder": "Situation 1: The hiring manager at your top choice company hasn’t followed up with you a few days after your interview.",
+                                    "content": "Initial thought (example): I didn’t get the job."
+                                },
+                                {
+                                    "id": "4d443194-f0bd-4b95-a539-9cfbb6ce6079",
+                                    "input_type": "text",
+                                    "placeholder": "Sample: Frustrated, angry, hopeless, sad (6)",
+                                    "content": "How it made you feel (Rate the intensity of your emotions from 0-10, with 0 being an insignificant emotion and 10 being an extremely intense emotion)."
+                                },
+                                {
+                                    "id": "652b75b4-7e7d-4d6a-9b4a-9817ca540010",
+                                    "input_type": "text",
+                                    "placeholder": "Situation 2: Your cousin said he would introduce you to someone he knows who works at one of your target companies – and he hasn’t.",
+                                    "content": "Initial thought:"
+                                },
+                                {
+                                    "id": "caf00a78-56fc-4b30-8d58-57dbc33fde12",
+                                    "input_type": "text",
+                                    "placeholder": "Situation 3: It’s Day 3 of a new job, and you still haven’t had an orientation.",
+                                    "content": "Initial thought:"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "99f80098-169b-4d1a-94a6-25fca9ad552d",
+                        "kind": "video2",
+                        "title": "Navigating thoughts and feelings",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 2"
+                        }
+                    },
+                    {
+                        "id": "dac2c825-5e6a-4c12-a61c-ca7d5ec4e360",
+                        "kind": "video3",
+                        "title": "Taking actions on goals",
+                        "duration": "3 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "video",
+                            "asset": "DRIVEN Week 1 Video 3"
+                        }
+                    },
+                    {
+                        "id": "4022df9c-4d51-45da-ad25-926fb6e601c6",
+                        "kind": "exercise2",
+                        "title": "Taking Action Going Forward",
+                        "duration": "15 min",
+                        "is_locked": true,
+                        "is_completed": false,
+                        "content": {
+                            "type": "exercise",
+                            "kind": "exercise2",
+                            "title": "Taking Action Going Forward",
+                            "content_url": "exercises/week6/exercise2.md",
+                            "questions": [
+                                {
+                                    "id": "4412a344-863d-4100-8f69-7e847e1a1116",
+                                    "input_type": "text",
+                                    "placeholder": "Remember Week 1, when we came up with a specific task",
+                                    "content": "Look back at your Week 1 goal. Did you do what you planned? If so, when? How did it go?"
+                                },
+                                {
+                                    "id": "aaf53660-87f8-41f6-9c53-5d8bd1803980",
+                                    "input_type": "text",
+                                    "placeholder": "What’s another goal you feel comfortable adding to your plate?",
+                                    "content": "What rewards can you provide to yourself when you’ve taken action on your goals?"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "resources": []
+            }
+        ]
+    }
+}
+
+]
